@@ -1,0 +1,27 @@
+beautifulsoup4==4.14.3
+Brotli @ file:///home/builder/.termux-build/python-brotli/src
+certifi==2026.2.25
+charset-normalizer==3.4.5
+contourpy @ file:///home/builder/.termux-build/python-contourpy/src/dist/contourpy-1.3.3-cp313-cp313-android_aarch64.whl#sha256=6f892fe9089f3632c8d3898b22eeb41edf1144f8dacd57cce023e62ea00627f8
+cycler==0.12.1
+fonttools==4.62.0
+idna==3.11
+kiwisolver==1.5.0
+matplotlib @ file:///home/builder/.termux-build/matplotlib/src/dist/matplotlib-3.10.8-cp313-cp313-android_aarch64.whl#sha256=e9d63732732c14e41d449e50362ae23ebd35b74a8fc604db1917f6a3e0e3fc83
+numpy @ file:///home/builder/.termux-build/python-numpy/src/dist/numpy-2.2.5-cp313-cp313-android_aarch64.whl#sha256=04510b600f0b376276ce70ff0279da68d51d3f12c2b7f70cb7d28e54d282c784
+packaging==26.0
+pandas @ file:///home/builder/.termux-build/python-pandas/src/dist/pandas-3.0.1-cp313-cp313-android_aarch64.whl#sha256=7fc789e68c2f739e57cfaa0feb312196c7b89bc2a9cd1622aae8bfea4db4866c
+pillow @ file:///home/builder/.termux-build/python-pillow/src
+psutil @ file:///home/builder/.termux-build/python-psutil/src
+pycryptodomex @ file:///home/builder/.termux-build/python-pycryptodomex/src
+pyparsing==3.3.2
+python-dateutil==2.9.0.post0
+python-whois==0.9.6
+requests==2.32.5
+scipy @ file:///home/builder/.termux-build/python-scipy/src/dist/scipy-1.17.1-cp313-cp313-android_aarch64.whl#sha256=983a3b6ea280209902b8cc8c5c47d881237522224142999ddf2c8e084ffb2db3
+six==1.17.0
+soupsieve==2.8.3
+typing_extensions==4.15.0
+urllib3==2.6.3
+yt-dlp @ file:///home/builder/.termux-build/python-yt-dlp/src
+yt-dlp-ejs @ file:///home/builder/.termux-build/yt-dlp-ejs/src/dist/yt_dlp_ejs-0.6.0-py3-none-any.whl#sha256=00bf9d0f09857725606eb7799ea6e8951555ba3c010dcd18fe37deb01b21c6ff
